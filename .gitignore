@@ -1,2 +1,4 @@
-steps.md
-enunciado.md
+**/.vscode/
+**/__pycache__/
+**/.ipynb_checkpoints/
+notas.txt
