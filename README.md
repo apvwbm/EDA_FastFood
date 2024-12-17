@@ -5,10 +5,10 @@
 
 <h2>🎯 Objetivos</h2>
 <ul>
-    <li>Comparar calorías por cadena para ver cuál ofrece productos menos calóricos.</li>
-    <li>Comprobar correlaciones entre <code>Calorías</code> con <code>Grasas</code>, <code>Sodio</code> y <code>Azúcares</code>.</li>
-    <li>Impacto de grasas saturadas en el colesterol.</li>
-    <li>Identificar productos extremos (muy altos en calorías o sodio).</li>
+    <li>Identificar cadenas con productos más o menos calóricos.</li>
+    <li>Analizar correlaciones entre <code>calorías</code>, <code>sodio</code> y <code>azúcares</code>.</li>
+    <li>Determinar cómo las grasas saturadas y otros nutrientes influyen en el colesterol.</li>
+    <li>Identificar productos con mejor balance nutricional (bajas calorías, grasas y sodio).</li>
     <li>Evaluar salud según puntos de <a href="https://www.weightwatchers.com/us/">Weight Watchers Points</a>.</li>
 </ul>
 
@@ -33,8 +33,12 @@
 <h2>🛠️ Tecnologías</h2>
 <ul>
     <li>Python</li>
+    <li>Numpy</li>
     <li>Pandas</li>
-    <li>Matplotlib / Seaborn</li>
+    <li>Matplotlib</li>
+    <li>Seaborn</li>
+    <li>Scikit-learn</li>
+    <li>Scipy</li>
 </ul>
 
 <h2>🚀 Cómo Ejecutar el Proyecto</h2>
@@ -43,5 +47,5 @@
     <pre>git clone https://github.com/usuario/EDA_FastFood.git</pre>
     <li>Instala las dependencias necesarias:</li>
     <pre>pip install -r requirements.txt</pre>
-    <li>Abre el archivo <code>memoria.ipynb</code> y ejecuta todas las celdas en Jupyter Notebook.</li>
+    <li>Abre el archivo <code>memoria.ipynb</code> y ejecuta todas las celdas en Jupyter Notebook, o revisa el archivo <code>memoria.pdf</code>.</li>
 </ol>
