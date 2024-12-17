@@ -17,16 +17,17 @@
 📂 EDA_FastFood/
 ├── 📂 src/
 │   ├── 📂 data/            
-│   │   └── fastfood.csv       # Dataset en formato CSV.
-│   ├── 📂 img/                # Imágenes y gráficos generados.
+│   │   └── fastfood.csv    # Dataset en formato CSV.
+│   ├── 📂 img/             # Imágenes y gráficos generados.
 │   └── 📂 utils/
-│       └── funciones.py       # Funciones auxiliares para visualización.
+│       └── funciones.py    # Funciones auxiliares para visualización.
 │
-├── main.ipynb                 # Notebook principal con el análisis.
-├── memoria.pdf                # Informe final en formato PDF.
-├── presentacion.pptx          # Presentación del proyecto.
-├── .gitignore                 # Archivos y carpetas a ignorar por Git.
-└── README.md                  # Descripción breve del proyecto.
+├── .gitignore              # Archivos y carpetas a ignorar por Git.
+├── main.ipynb              # Notebook principal con el análisis.
+├── memoria.pdf             # Informe final en formato PDF.
+├── presentacion.pptx       # Presentación del proyecto.
+├── README.md               # Descripción breve del proyecto.
+└── requirements.txt        # Archivo de requisitos del proyecto.
 </pre>
 
 
